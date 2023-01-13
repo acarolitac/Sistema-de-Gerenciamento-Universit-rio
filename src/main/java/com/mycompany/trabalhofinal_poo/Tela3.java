@@ -6,7 +6,7 @@ package com.mycompany.trabalhofinal_poo;
 
 /**
  *
- * @author PC
+ * @author Ana Carolina, Marcela e Júlia
  */
 public class Tela3 extends javax.swing.JFrame {
 
